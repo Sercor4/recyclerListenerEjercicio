@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">recyclerListenerEjercicio</string>
+    <string name="tvNomnre">Nombre</string>
+    <string name="tvModulo">Modulo</string>
+    <string name="tvCurso">Curso</string>
+
+</resources>
